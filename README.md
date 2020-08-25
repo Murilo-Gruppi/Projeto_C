@@ -6,9 +6,9 @@ Implementação de um programa em linguagem C para realizar a verificação orto
 
 '1012041' palavras lidas de 'palavras.txt'
  
- A palavra numca pode estar escrita incorretamente, as opções de substituição são: 
- 1.nuca 
- 2.nunca 
+ A palavra numca pode estar escrita incorretamente, as opções de substituição são: <br />
+ 1.nuca <br/>
+ 2.nunca <br/>
  3.zumba 
 
  Digite o número da palavra a ser usada ou 0 para permanecer com a palavra numca: 
